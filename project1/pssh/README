@@ -1,0 +1,7 @@
+To run this program:
+	- type in "make"
+	- then type in "./pssh"
+
+Some problems with this program include:
+	- When writing the ls command, the current working directory goes away, but entering another command after will work.
+	- The exit command doesn't work sometimes, the ctrl+c works all the time though.
